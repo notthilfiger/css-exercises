@@ -1,4 +1,8 @@
 /* Add CSS Styling */
-odd {
+.odd {
     background-color: pink;
+}
+
+#four {
+    background-color: lightgreen;
 }
