@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+div {
+    text-align: center;
+}
+
+#black {
+    background-color: black;
+    color: white;
+}
+
+#orange {
+    background-color: orange;
+}
