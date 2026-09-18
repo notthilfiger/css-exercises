@@ -9,12 +9,11 @@
     font-size: 36px;
 }
 
-#three {
+.adjust-font-size {
     font-size: 24px;
 }
 
 #four {
     background-color: lightgreen;
     font-weight: bold;
-    font-size: 24px;
 }
