@@ -1,3 +1,18 @@
 div {
     text-align: center;
 }
+
+.black,
+.orange {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.orange {
+    background-color: orange;
+}
